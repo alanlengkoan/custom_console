@@ -1,0 +1,25 @@
+{
+  "name": "modify_console",
+  "version": "1.0.2",
+  "description": "my modify console",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alanlengkoan/modify_console.git"
+  },
+  "keywords": [
+    "modify",
+    "console",
+    "modifyconsole"
+  ],
+  "author": "Alan Saputra Lengkoan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alanlengkoan/modify_console/issues"
+  },
+  "homepage": "https://github.com/alanlengkoan/modify_console#readme"
+}
